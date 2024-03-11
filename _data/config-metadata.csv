@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,
-link,Link,,True
+link,Link,,true
 authors,List of Authors,
 abstract,Abstract,
 date,Date,
