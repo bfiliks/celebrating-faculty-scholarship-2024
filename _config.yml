@@ -46,8 +46,8 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vS4XNz00jAJkevGX8f
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 organization-name: "Loyola University Libraries Systems"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+organization-link: http://libraries.luc.edu/
+organization-logo-banner: https://libraries.luc.edu/sites/default/files/slideshow/web%20banner%20submission%20-%20CFS%202024.jpg
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
