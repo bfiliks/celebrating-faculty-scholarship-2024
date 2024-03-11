@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
+title: Celebrating Faculty Scholarship 2024
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Loyola University Chicago Faculty Scholarship
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "The Libraries are very grateful to everyone who submitted publications for this year's celebration, and we're pleased to have an opportunity to promote and celebrate the work of Loyola faculty.  If you were unable to attend the gathering in the Information Commons to raise a toast to another year of research and scholarship, we hope that you'll take this opportunity to appreciate the hard work and creativity on display in this year's"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Felix Oke; Loyola University Chicago
 
 ##########
 # COLLECTION SETTINGS
@@ -37,13 +37,13 @@ author: CollectionBuilder
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-metadata-csv: 
+metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vS4XNz00jAJkevGX8fxL6WN4wj4UJkHP5utwz0VIT59Gy9VWjgKS3QWNUsAKGB3HM8VWeoGyOe3SiSS/pub?output=csv 
 
 ##########
 # Site/Organization Branding 
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
+organization-name: "Loyola University Libraries Systems"
 # organization-link: https://cdil.lib.uidaho.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
