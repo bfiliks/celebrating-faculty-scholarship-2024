@@ -39,7 +39,7 @@ function displayItem(record, prev_id, next_id, compound_object) {
     var itemDisplay, itemDownload;
     function addItem(item) {
         if (item.format.includes('image')) {
-            itemDisplay = '<a data-download="true" href="' + item.link + '"><img class="img-fluid" src="' + findFileLink(item) + '" alt="' + item.title + '">';
+            itemDisplay = '<a data-download="true" href="' + item.link + '" target="_blank" rel="noopener"><img class="img-fluid" src="' + findFileLink(item) + '" alt="' + item.title + '">';
             itemDisplay += record.format.includes('multiple') ? '</a>' : '<div></div>';
             itemDownload = '<a href="' + item.link + '" target="_blank" rel="noopener" class="btn btn-outline-primary" title="Object link">Link to Item ' + '</a>';
         } else if (item.format.includes('pdf')) {
