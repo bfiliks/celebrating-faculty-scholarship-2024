@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
-## About CollectionBuilder-Sheets
+## Celebration of Faculty Scholarship 2024
 
 The Libraries are very grateful to everyone who submitted publications for this year's celebration, and we're pleased to have an opportunity to promote and celebrate the work of Loyola faculty.  If you were unable to attend the gathering in the Information Commons to raise a toast to another year of research and scholarship, we hope that you'll take this opportunity to appreciate the hard work and creativity on display in this year's.
 
