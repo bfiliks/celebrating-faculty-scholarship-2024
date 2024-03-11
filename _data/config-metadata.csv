@@ -5,10 +5,6 @@ authors,List of Authors,
 abstract,Abstract,
 date,Date,
 publisher,Publisher,
-subject,Subjects,true
 identifier,Identifier,,
 citation,Bibliographic Citation,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+subject,Subjects,true
