@@ -1,16 +1,13 @@
 field,display_name,browse_link,external_link
 title,Title,
+link,Link,,True
+authors,List of Authors,
 abstract,Abstract,
+date,Date,
 publisher,Publisher,
-creator,Creator,
-date,Date Created,
-description,Description,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-link,Link,,true
-identifier,Source Identifier,,
+identifier,Identifier,,
+citation,Bibliographic Citation,
 type,Type,
 format,Format,
 rights,Rights,
