@@ -26,3 +26,6 @@ We will post additional works you published in recent years on your faculty prof
 
 The 15th Annual Celebration of Faculty Scholarship will take place on April 10, 2024, from 4-6PM.
 
+## Site Development
+This site was developed by Felix Oke, an alumnus of the Digital Humanities Program, Loyola University Chicago using Collection Builder-CB
+
