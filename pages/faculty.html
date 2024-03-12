@@ -1,0 +1,28 @@
+---
+title: Faculty
+layout: page
+permalink: /faculty.html
+---
+{% assign people = site.data.faculty %}
+<h2>Faculty</h2>
+
+<p>The table below presents faculty featured in this digital exhibit in alphabetical order.</p>
+
+<div class="table-responsive-md">
+   <table id="item-table" class="table table-striped">
+      <thead>
+         <tr>
+            <th scope="col">Name</th>
+            <th scope="col">School</th>
+         </tr>
+      </thead>
+      <tbody>
+      {% for c in people %}
+      <tr>
+        <td><a href="{{c.link}}" target="_blank">{{c.name}}</a>
+         <td>{{ c.school }}</td>
+      </tr>
+      {% endfor %}
+      </tbody>
+   </table>
+</div>
