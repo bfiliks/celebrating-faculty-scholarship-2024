@@ -1,11 +1,11 @@
-field,display_name,browse_link,external_link
+field,display_name,browse_link,external_link,faculty_link
 title,Title,
 link,Link,,true
 authors,List of Authors,true
 names of student collaborators,Names of Student Collaborators,
 abstract,Abstract,
 date,Date,
-item type,Item Type,true
+item type,Item Type,,,true
 publisher,Publisher,
 identifier,Identifier,,
 citation,Bibliographic Citation,
