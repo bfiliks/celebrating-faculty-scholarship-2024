@@ -5,7 +5,7 @@ authors,List of Authors,
 names of student collaborators,Names of Student Collaborators,
 abstract,Abstract,
 date,Date,
-item type,Item Type,
+item type,Item Type,true
 publisher,Publisher,
 identifier,Identifier,,
 citation,Bibliographic Citation,
