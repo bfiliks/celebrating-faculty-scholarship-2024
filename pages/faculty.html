@@ -13,14 +13,14 @@ permalink: /faculty.html
       <thead>
          <tr>
             <th scope="col">Name</th>
-            <th scope="col">SchoolDepartment</th>
+            <th scope="col">School/Department</th>
          </tr>
       </thead>
       <tbody>
       {% for c in people %}
       <tr>
         <td><a href="{{c.link}}" target="_blank">{{c.name}}</a>
-         <td>{{ c.school }}</td>
+         <td>{{ c.school/department }}</td>
       </tr>
       {% endfor %}
       </tbody>
