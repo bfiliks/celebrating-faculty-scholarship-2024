@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link,faculty_link
 title,Title,
 link,Link,,true
-authors,List of Authors,
+authors,Authors,
 names of student collaborators,Names of Student Collaborators,
 abstract,Abstract,
 date,Date,
