@@ -37,7 +37,7 @@ author: Felix Oke; Loyola University Chicago
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vS4XNz00jAJkevGX8fxL6WN4wj4UJkHP5utwz0VIT59Gy9VWjgKS3QWNUsAKGB3HM8VWeoGyOe3SiSS/pub?output=csv 
+metadata-csv: luc-cfs-2024 
 
 ##########
 # Site/Organization Branding 
