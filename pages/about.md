@@ -14,7 +14,7 @@ credits: true
 
 The Libraries are very grateful to everyone who submitted publications for this year's celebration, and we're pleased to have an opportunity to promote and celebrate the work of Loyola faculty.  If you were unable to attend the gathering in the Information Commons to raise a toast to another year of research and scholarship, we hope that you'll take this opportunity to appreciate the hard work and creativity on display in this year's.
 
-Browse the exhibit by title [link to Browse] or subject [link to Subject browse]. You can also view all the faculty participants [link “faculty” to Faculty page] and see all their recent work on their research profile pages.
+Browse the exhibit by title [Link to browse page](/browse.html) or subject [Link to subjects page](/subjects.html). You can also view all the faculty participants [Link to faculty page](/faculty.html) and see all their recent work on their research profile pages.
 
 We’ll  be featuring publications from the exhibit on the Libraries' social media accounts. If you want to join in the conversation, please follow us online @LUCLibraries on Facebook and Twitter, or @librariesluc on Instagram.
 
