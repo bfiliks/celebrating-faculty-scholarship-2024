@@ -18,6 +18,6 @@ Browse the exhibit by title [link to Browse] or subject [link to Subject browse]
 
 We’ll  be featuring publications from the exhibit on the Libraries' social media accounts. If you want to join in the conversation, please follow us online @LUCLibraries on Facebook and Twitter, or @librariesluc on Instagram.
 
- ## Site Development
+## Site Development
 This site was developed by Felix Oke, an alumnus of the Digital Humanities Program, Loyola University Chicago using Collection Builder-CB
 
