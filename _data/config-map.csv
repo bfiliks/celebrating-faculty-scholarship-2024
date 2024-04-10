@@ -1,5 +1,5 @@
 field,display_name,search
 date,Date,true
-authors,List of Authors,true
+authors,Authors,true
 subject,Subjects,true
 location,Location,true
