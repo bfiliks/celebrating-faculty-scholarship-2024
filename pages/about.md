@@ -19,5 +19,5 @@ Browse the exhibit by [title](/browse.html) or [subjects](/subjects.html). You c
 We’ll  be featuring publications from the exhibit on the Libraries' social media accounts. If you want to join in the conversation, please follow us online @LUCLibraries on Facebook and Twitter, or @librariesluc on Instagram.
 
 ## Site Development
-This site was developed by Felix Oke, an alumnus of the Digital Humanities Program, Loyola University Chicago using Collection Builder-CB
+This site was developed by Felix Oke, an alumnus of the Digital Humanities Program, [Center for Textual Studies and Digital Humanities](https://www.luc.edu/ctsdh/), Loyola University Chicago using Collection Builder-CB
 
