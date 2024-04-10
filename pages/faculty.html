@@ -19,9 +19,13 @@ permalink: /faculty.html
       <tbody>
       {% for c in people %}
       <tr>
-        <td><a href="{{c.link}}" target="_blank">{{c.name}}</a>
+         {% if c.link %}
+             <td><a href="{{ c.link }}" target="_blank">{{ c.name }}</a></td>
+         {% else %}
+             <td>{{ c.name }}</td>
+         {% endif %}
          <td>{{ c.school }}</td>
-      </tr>
+     </tr>     
       {% endfor %}
       </tbody>
    </table>
