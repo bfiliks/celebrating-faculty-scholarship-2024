@@ -12,11 +12,9 @@ credits: true
 
 ## Celebration of Faculty Scholarship 2024
 
-The Libraries are very grateful to everyone who submitted publications for this year's celebration, and we're pleased to have an opportunity to promote and celebrate the work of Loyola faculty.  If you were unable to attend the gathering in the Information Commons to raise a toast to another year of research and scholarship, we hope that you'll take this opportunity to appreciate the hard work and creativity on display in this year's.
+The University Libraries faculty and staff are very grateful to everyone who submitted publications for this year's celebration. As an extension of the annual gathering we hosted in the Loyola Information Commons,we are pleased to have an opportunity to promote and celebrate the work of Loyola faculty.  We hope you will take this opportunity to explore and appreciate the faculty's hard work and creativity displayed here. We invite you to browse the exhibit by [title]( https://bfiliks.github.io/celebrating-faculty-scholarship-2024/browse.html) or [subjects](https://bfiliks.github.io/celebrating-faculty-scholarship-2024/subjects.html). You can also view all the [faculty participants](/faculty.html) and see their recent work on their research profile pages.
 
-Browse the exhibit by [title]( https://bfiliks.github.io/celebrating-faculty-scholarship-2024/browse.html) or [subjects](https://bfiliks.github.io/celebrating-faculty-scholarship-2024/subjects.html). You can also view all the [faculty participants](/faculty.html) and see all their recent work on their research profile pages.
-
-We’ll  be featuring publications from the exhibit on the Libraries' social media accounts. If you want to join in the conversation, please follow us online @LUCLibraries on Facebook and Twitter, or @librariesluc on Instagram.
+Be on the lookout for faculty features from this exhibit on the Libraries' social media. If you want to join in the conversation, please follow us @LUCLibraries on Facebook and Twitter, or @librariesLUC on Instagram.
 
 ## Site Development
 This site was developed by [Felix Oke](https://github.com/bfiliks), an alumnus of the Digital Humanities Program, [Center for Textual Studies and Digital Humanities](https://www.luc.edu/ctsdh/), Loyola University Chicago using Collection Builder-CB
